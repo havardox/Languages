@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="button">κουμπί</string>
+    <string name="phone">τηλέφωνο</string>
+    <string name="chair">καρέκλα</string>
+    <string name="table">τραπέζι</string>
+    <string name="cup">φλιτζάνι</string>
+</resources>

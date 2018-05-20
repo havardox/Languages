@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="cup">tasse</string>
+    <string name="table">tabelle</string>
+    <string name="chair">stuhl</string>
+    <string name="phone">telefon</string>
+    <string name="button">taste</string>
+</resources>
